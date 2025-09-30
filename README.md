@@ -22,17 +22,17 @@ The `Data` folder contains the data required for running the analyses. Here are 
 
 ## **Code**
 
-The `Code` folder contains all the code required for running the analyses and generate the figures. Don't forget to change the location variable regularly. 
+The `Code` folder contains all the code required for running the analyses and generate the figures. Don't forget to update the paths. 
 
 
 
 
--	[CognitionStudy_GITHUB.R](Code/CognitionStudy_GITHUB.R) –This script performs a mixed linear regression looking for the relationship between the overall cognitive functioning assessment of the cohort and covariates such as age, sex , medication and regional centiles.
--	[Mesulman_Turkey_Analisys_GITHUB.R](Code/Mesulman_Turkey_Analisys_GITHUB.R) – This script performs statistical analysis and visualization on neuroimaging data.It includes data loading, data transformation, ANOVA, and Tukey's HSD test.
+-	[CognitionStudy.R](Code/CognitionStudy.R) –This script performs a mixed linear regression looking for the relationship between the overall cognitive functioning assessment of the cohort and covariates such as age, sex , medication and regional centiles.
+-	[MesulmanTurkeyStudy.R](Code/MesulmanTurkeyStudy.R) – This script performs statistical analysis and visualization on neuroimaging data.It includes data loading, data transformation, ANOVA, and Tukey's HSD test.
          The script uses generic file paths and column names for ease of adaptation to other datasets.
--	[CaseBaseStructuralAnalysis_GITHUB.R](Code/CaseBaseStructuralAnalysis_GITHUB.R)-This script performs a linear regression looking for the relationship between the baseline centiles of the cohort and covariates such as age, sex or medication.
--	[LongitudinalStructuralAnalysist_GITHUB.R](Code/LongitudinalStructuralAnalysist_GITHUB.R)-This script performs a mixed linear regression looking for the relationship between the centiles of the cohort and covariates such as age, sex or medication.
--	[SymptomsLongitudinalAnalysis_GITHUB.R](Code/SymptomsLongitudinalAnalysis_GITHUB.R)-This script performs a mixed linear regression looking for the relationship between the Symptoms of the cohort and covariates such as age, sex , medication and regional centiles.
+-	[CaseBaseStructuralStudy.R](Code/CaseBaseStructuralStudy.R)-This script performs a linear regression looking for the relationship between the baseline centiles of the cohort and covariates such as age, sex or medication.
+-	[LongitudinalStructuralStudy.R](Code/LongitudinalStructuralStudy.R)-This script performs a mixed linear regression looking for the relationship between the centiles of the cohort and covariates such as age, sex or medication.
+-	[SymptomsLongitudinalStudy.R](Code/SymptomsLongitudinalStudy.R)-This script performs a mixed linear regression looking for the relationship between the Symptoms of the cohort and covariates such as age, sex , medication and regional centiles.
 
 
 
