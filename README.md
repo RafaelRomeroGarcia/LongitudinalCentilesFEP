@@ -33,7 +33,8 @@ The `Code` folder contains all the code required for running the analyses and ge
 -	[CaseBaseStructuralStudy.R](CODE/CaseBaseStructuralStudy.R)-This script performs a linear regression looking for the relationship between the baseline centiles of the cohort and covariates such as age, sex or medication.
 -	[LongitudinalStructuralStudy.R](CODE/LongitudinalStructuralStudy.R)-This script performs a mixed linear regression looking for the relationship between the centiles of the cohort and covariates such as age, sex or medication.
 -	[SymptomsLongitudinalStudy.R](CODE/SymptomsLongitudinalStudy.R)-This script performs a mixed linear regression looking for the relationship between the Symptoms of the cohort and covariates such as age, sex , medication and regional centiles.
--        [CaseBaseStructuralStudy.R](CODE/CaseBaseStructuralStudy.R)-This script performs a mediation analyses using bootstrapping of a Mix Models.
+-	[SymptomsLongitudinalStudy.R](CODE/SymptomsLongitudinalStudy.R)-This script performs a mixed linear regression looking for 
+-        [SymptomsLongitudinalStudy.R](CODE/SymptomsLongitudinalStudy.R)-This script performs a mediation analyses using bootstrapping of a Mix Models.
 
 
 
